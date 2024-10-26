@@ -26,8 +26,6 @@
 
 [![Ayyappan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayyappan-M-P&theme=radical&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/Ayyappan-M-P)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayyappan-M-P&theme=radical&hide_border=false)](https://github.com/Ayyappan-M-P)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayyappan-M-P&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/Ayyappan-M-P)
 
 ---
