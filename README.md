@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayyappan-m-p&label=Profile%20views&color=0e75b6&style=flat" alt="ayyappan-m-p" /> </p>
 
-- 🔭 I’m currently working on **Next Js Project**
+<!-- - 🔭 I’m currently working on **.Net Project** -->
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **.Net**
 
 - 💬 Ask me about **MERN ,ML ,PowerBI**
 
